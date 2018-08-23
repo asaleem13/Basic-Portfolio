@@ -122,3 +122,21 @@ input[type=submit] {
 input[type=submit]:hover {
     background-color: #45a049;
 }
+
+.box1 {
+    float: left;
+    clear: left;
+    margin: 20px;
+}
+
+.box2 {
+    float: right;
+    clear: right;
+    margin: 20px;
+}
+
+.centerincard {
+margin: 0 auto;
+}
+
+
